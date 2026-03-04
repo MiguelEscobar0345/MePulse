@@ -2,7 +2,7 @@
 
 A production-grade cryptocurrency dashboard built with React, Vite, and Vercel Serverless Functions. Real-time market data, interactive price charts, sparklines, and detailed coin analytics — all served through a custom API layer that solves the hard problems most frontend projects ignore.
 
-Live demo → **Coming soon!**
+Live demo → **(https://me-pulse.vercel.app/)**
 
 ---
 
